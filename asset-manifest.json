@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactSPA/static/css/main.975897d1.css",
+    "main.js": "/ReactSPA/static/js/main.0a558c85.js",
+    "static/media/povar.jpg": "/ReactSPA/static/media/povar.86b1948ede9c1a53fd01.jpg",
+    "static/media/povar2.jpg": "/ReactSPA/static/media/povar2.e1698996ec467cce0e5b.jpg",
+    "index.html": "/ReactSPA/index.html",
+    "main.975897d1.css.map": "/ReactSPA/static/css/main.975897d1.css.map",
+    "main.0a558c85.js.map": "/ReactSPA/static/js/main.0a558c85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975897d1.css",
+    "static/js/main.0a558c85.js"
+  ]
+}
